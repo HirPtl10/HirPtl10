@@ -56,24 +56,16 @@ Building real-time web applications, interactive canvases, and AI-powered workfl
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-<!-- All cards use the same theme (tokyonight) and the same width so the grid lines up. -->
+<!-- Only three things: streak, languages, contribution graph. Same theme + same height so they line up. -->
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HirPtl10&theme=tokyonight" width="49%" alt="Profile Details" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HirPtl10&theme=tokyonight" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com?user=HirPtl10&theme=tokyonight&hide_border=true&border_radius=12" height="190" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HirPtl10&theme=tokyonight" height="190" alt="Top Languages" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HirPtl10&theme=tokyonight" width="32%" alt="Top Languages by Repo" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HirPtl10&theme=tokyonight" width="32%" alt="Top Languages by Commit" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HirPtl10&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive Time" />
+<br /><br />
 
-<br />
-
-<img src="https://streak-stats.demolab.com?user=HirPtl10&theme=tokyonight&hide_border=true&border_radius=12" width="75%" alt="GitHub Streak" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HirPtl10&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
+<img src="https://github.pumbas.net/api/contributions/HirPtl10?colour=BB9AF7&bgColour=1A1B27&dotColour=7AA2F7" width="100%" alt="Contribution Graph" />
 
 </div>
