@@ -45,18 +45,35 @@ Building real-time web applications, interactive canvases, and AI-powered workfl
 
 ---
 
-### 📊 GitHub & LeetCode Activity
+## 🧩 LeetCode
 
-<!-- Clean Dark-Matched LeetCode Card + GitHub Languages Side-by-Side -->
-<p align="left">
+<!-- Single wide card + heatmap. Change `theme=` to restyle (e.g. tokyoNight, nord, dracula, catppuccinMocha, dark). -->
+<div align="center">
   <a href="https://leetcode.com/u/hirang10/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/hirang10?theme=catppuccinMocha&font=JetBrains%20Mono&ext=heatmap&border=0" height="210" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/hirang10?theme=tokyoNight&font=JetBrains%20Mono&ext=heatmap&border=0&radius=16" width="720" alt="LeetCode Stats" />
   </a>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HirPtl10&theme=github_dark" height="210" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HirPtl10&theme=github_dark" height="210" alt="Top Languages" />
-</p>
+</div>
 
-<!-- Minimal Green Contribution Matrix (Replaces the purple graph) -->
-<p align="left">
-  <img src="https://ghchart.rshah.org/39d353/HirPtl10" width="100%" alt="GitHub Contribution Chart" />
-</p>
+---
+
+## 📊 GitHub Stats
+
+<!-- All cards use the same theme (tokyonight) and the same width so the grid lines up. -->
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HirPtl10&theme=tokyonight" width="49%" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HirPtl10&theme=tokyonight" width="49%" alt="GitHub Stats" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HirPtl10&theme=tokyonight" width="32%" alt="Top Languages by Repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HirPtl10&theme=tokyonight" width="32%" alt="Top Languages by Commit" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HirPtl10&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive Time" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=HirPtl10&theme=tokyonight&hide_border=true&border_radius=12" width="75%" alt="GitHub Streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HirPtl10&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" width="100%" alt="Contribution Graph" />
+
+</div>
