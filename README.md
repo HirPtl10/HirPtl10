@@ -45,19 +45,18 @@ Building real-time web applications, interactive canvases, and AI-powered workfl
 
 ---
 
-### 📊 GitHub & LeetCode Stats
+### 📊 GitHub & LeetCode Activity
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HirPtl10&theme=tokyonight" width="100%" alt="Activity Graph" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=HirPtl10&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HirPtl10&theme=tokyonight" height="165" alt="Top Languages" />
-</p>
-
+<!-- Clean Dark-Matched LeetCode Card + GitHub Languages Side-by-Side -->
 <p align="left">
   <a href="https://leetcode.com/u/hirang10/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/hirang10?theme=tokyonight&font=JetBrains%20Mono&ext=heatmap&border=0" height="185" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/hirang10?theme=catppuccinMocha&font=JetBrains%20Mono&ext=heatmap&border=0" height="210" alt="LeetCode Stats" />
   </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HirPtl10&theme=github_dark" height="210" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HirPtl10&theme=github_dark" height="210" alt="Top Languages" />
+</p>
+
+<!-- Minimal Green Contribution Matrix (Replaces the purple graph) -->
+<p align="left">
+  <img src="https://ghchart.rshah.org/39d353/HirPtl10" width="100%" alt="GitHub Contribution Chart" />
 </p>
