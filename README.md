@@ -63,6 +63,9 @@ Building real-time web applications, interactive canvases, and AI-powered workfl
   so they don't depend on third-party servers.
   Change "tokyonight" below to any theme: default, dracula, github_dark, nord_dark, radical, solarized_dark, zenburn...
 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HirPtl10&label=Profile+Views&color=7AA2F7&style=for-the-badge" alt="Profile Views" />
+</p>
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/HirPtl10/HirPtl10/main/profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="GitHub Stats" />
